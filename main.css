@@ -1,0 +1,152 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: white;
+
+}
+div{
+    padding: 0px;
+}
+header{
+    height: 60px;
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    position:sticky;
+    top:0;
+}
+header nav{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+    background-color: white;
+    
+    height: 50px;
+    
+}
+header li{
+    list-style: none;
+    display: inline-block;
+    font-size: large; 
+    margin-top: 10px;
+}
+header nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+header nav .sagnebi a{
+    border: 0px;
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+header nav .sagnebi button:hover{
+    opacity: 0.5;
+}
+
+.sagnebi{
+    margin-left:50px;
+    margin-top: 5px;
+}
+
+.money{
+     margin-right:50px;
+    padding-right: 10px;
+
+}
+.money li img{
+    height: 20px;
+    width:20px;
+
+
+}
+
+
+.lineone{
+    position: relative;
+    right: 50px;
+    padding-top: 20px;
+}
+
+
+h2{
+    margin: 0px;
+}
+i{
+    margin-left: 50px;
+    font-size: 20px;
+    position: relative;
+    left: 200px;
+}
+li{
+list-style-type: none;
+display: inline;
+font-size: 20px;
+margin-left: 20px;}
+.fullfooter{
+    position: relative;
+    left: 400px;
+}
+    
+
+
+footer{
+    border-style: solid;
+    background-color: gray;
+    color: whitesmoke;
+    width: 100%;
+    height: 80px;
+    position: relative;
+    top: 70px;
+    
+    
+    
+}
+.shopcart{
+margin-left: 40px;
+}
+
+
+.mitholo{
+    display: inline;
+    width: 400px;
+    position: relative;
+}
+
+.matematos{
+    display: inline;
+    width: 400px;
+    top:400px ;
+}
+.pervi{
+    font-size: 25px;
+    position: absolute;
+    top: 100px ;
+    left: 500px;
+}
+.vtaroi{
+    font-size: 25px;
+    position: relative;
+    top: 50px;
+}
+
+
+.myth
+{
+    display: flex;
+    width: 100%;
+}
+
+.math2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    position: relative;
+    top: 50px;
+}
+
+

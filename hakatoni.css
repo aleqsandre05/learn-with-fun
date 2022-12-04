@@ -1,0 +1,237 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.bg{
+    background-image: url(./istockphoto-117543064-612x612.jpg);
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.firstline{
+    top: 100px;
+}
+button{
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 200px;
+    height: 140px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 50px; 
+    position: relative;
+    right: 200px;
+    background-color:darkgray;
+    color: white;
+    
+} 
+.firstQuestion{
+
+    position: relative;
+    left: 620px;
+    top: 180px;
+    
+}
+.question{
+    position: relative;
+     right: 200px;
+     font-size: 30px;
+}
+.name{
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    left: 650px;
+    top: 100px;
+}
+button:hover{
+   color: white; 
+   background-color:cornflowerblue;
+}
+
+.secondQuestion{
+    position: absolute;
+    left: 620px;
+    display: none;
+    top: 180px;
+    
+}
+.pasuxebi{
+
+        margin-left: 30px;
+        border-style: solid;
+        border-radius: 15px;
+        width: 300px;
+        height: 140px;
+        margin-bottom: 40px;
+        margin-left: 100px;
+        margin-top: 30px;
+        font-size: 30px; 
+        position: relative;
+        right: 300px;
+ background-color:darkgray;
+ color: white;
+        
+ 
+}
+.secquestion{
+    position: relative;
+    right: 80px;
+    font-size: 30px;
+}
+.thiquestion{
+    font-size: 30px;
+    position: relative;
+    left: 50px;
+
+}
+.thirdQuestion{
+    position: absolute;
+    left: 570px;
+ 
+    display:none;
+    top: 180px;
+}
+.pasuxeb{
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 140px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px; 
+    position: relative;
+    right: 250px;
+background-color:darkgray;
+color: white;
+
+}
+
+.pasuxe{
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 140px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px; 
+    position: relative;
+    right: 250px;
+background-color:darkgray;
+color: white;
+
+
+}
+
+.fourthQuestion{
+    position: absolute;
+    left: 565px;
+font-size: 20px;
+    display: none;
+    top: 220px;
+    
+}
+.forquestion{
+    position: absolute;
+   left:  -30px;
+    top: -40px;
+   
+}
+
+
+.fifthQuestion{
+    position: absolute;
+    left: 570px;
+    display: none;
+    top: 180px;
+}
+.fivequestion{
+font-size: 30px;
+}
+
+.pasux{
+    margin-left: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    width: 300px;
+    height: 140px;
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-top: 30px;
+    font-size: 30px; 
+    position: relative;
+    right: 250px;
+background-color:darkgray;
+color: white;
+
+}
+.sixth{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    font-size: 45px;
+    display: none;
+    color: black;
+}
+body{
+    width: 900px;
+}
+div{
+    padding: 0px;
+}
+header{
+    height: 60px;
+    width:100%;
+    background-color: transparent;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+}
+header nav{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+header li{
+    list-style: none;
+    display: inline-block;
+    font-size: large; 
+    margin-top: 10px;
+}
+header nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+header nav .sagnebi a{
+    border: 0px;
+    background-color:transparent ;
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+    padding-right: 10px;
+}
+header nav .sagnebi a:hover{
+    opacity: 0.5;
+}
+
+.sagnebi{
+    margin-left:50px;
+    margin-top: 5px;
+}
+
+
+.sagnebi{
+    margin-left:50px;
+    margin-top: 5px;
+}
+

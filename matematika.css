@@ -1,0 +1,222 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.image{
+    
+    background-image: url(./pngtree-hand-account-style-mathematics-education-background-picture-image_1176982.jpg);
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.name{
+    font-size: 50px;
+    position: absolute;
+    left: 575px;
+    margin-bottom: 80px;
+}
+.first{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+ box-shadow:  0px 0px 17px 6px black;
+}
+.first:hover{
+background-color: gray;
+color: limegreen;
+}
+.firquestion{
+font-size: 45px;
+top: -85px;
+position: absolute;
+left: 200px;
+}
+.firstQuestion{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+}
+
+.seconde{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    box-shadow:  0px 0px 17px 6px black;
+}
+.seconde:hover{
+background-color: gray;
+color: limegreen;
+}
+.secquestion{
+font-size: 45px;
+top: -85px;
+position: absolute;
+left: 200px;
+}
+.secondQuestion{
+    position: absolute;
+    left: 400px;
+    display: none;
+    top: 200px;
+}
+
+
+.third{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    box-shadow:  0px 0px 17px 6px black;
+}
+.third:hover{
+background-color: gray;
+color: limegreen;
+}
+.thiquestion{
+font-size: 45px;
+top: -75px;
+position: absolute;
+left: 200px;
+}
+.thirdQuestion{
+    position: absolute;
+    left: 400px;
+    display: none;
+    top: 200px;
+}
+
+
+.four{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    box-shadow:  0px 0px 17px 6px black;
+}
+.four:hover{
+background-color: gray;
+color: limegreen;
+}
+.forquestion{
+font-size: 45px;
+top: -75px;
+position: absolute;
+left: 200px;
+}
+.fourthQuestion{
+    position: absolute;
+    left: 400px;
+    display: none;
+    top: 200px;
+}
+
+
+
+.fifve{
+    border-style: solid;
+    border-radius: 15px;
+    width: 150px;
+    height: 150px;
+    font-size: 35px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    box-shadow:  0px 0px 17px 6px black;
+}
+.five:hover{
+background-color: gray;
+color: limegreen;
+}
+.fivquestion{
+font-size: 45px;
+top: -85px;
+position: absolute;
+left: 200px;
+
+}
+.fifthQuestion{
+    position: absolute;
+    left: 400px;
+    display: none;
+    top: 200px;
+}
+
+.sixth{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+    font-size: 45px;
+    display: none;
+    color: black;
+}
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #1f1f1f;
+}
+div{
+    padding: 0px;
+}
+header{
+    height: 60px;
+    width:100%;
+    background-color: transparent;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+}
+header nav{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+header li{
+    list-style: none;
+    display: inline-block;
+    font-size: large; 
+    margin-top: 10px;
+}
+header nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+header nav .sagnebi a{
+    border: 0px;
+    background-color:transparent ;
+    font-size: 20px;
+    text-decoration: none;
+    color:black;
+    padding-right: 10px;
+}
+header nav .sagnebi a:hover{
+    opacity: 0.5;
+}
+
+.sagnebi{
+    margin-left:50px;
+    margin-top: 5px;
+}
+
+
+.sagnebi{
+    margin-left:50px;
+    margin-top: 5px;
+}
+

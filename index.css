@@ -1,0 +1,228 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #1f1f1f;
+}
+div{
+    padding: 0px;
+}
+header{
+    height: 60px;
+    width:100%;
+    background-color: rgb(255, 255, 255);
+    position: sticky;
+    top: 0px;
+}
+header nav{
+    display: flex;
+    justify-content:space-between ;
+    align-items: center;
+}
+header li{
+    list-style: none;
+    display: inline-block;
+    font-size: large; 
+    margin-top: 10px;
+}
+header nav ul{
+    margin: 0px;
+    padding: 0px;
+}
+
+header nav .sagnebi a{
+    border: 0px;
+    background-color: rgb(255, 255, 255);
+    font-size: medium;
+    text-decoration: none;
+    color:black;
+    padding-right: 10px;
+}
+header nav .sagnebi a:hover{
+    opacity: 0.5;
+}
+
+.sagnebi{
+    margin-left:50px;
+    margin-top: 5px;
+}
+
+.money{
+     margin-right:50px;
+    padding-right: 10px;
+
+}
+.money li img{
+    height: 20px;
+    width:20px;
+
+
+}
+header nav ul li.num{
+    border-style: solid;
+    border-width: 1px;
+    height: 20px;
+    
+}
+.sagnebi{
+    margin-left:50px;
+    margin-top: 5px;
+}
+
+.money{
+     margin-right:50px;
+    padding-right: 10px;
+
+}
+.money li img{
+    height: 20px;
+    width:20px;
+
+
+}
+header nav ul li.num{
+    border-style: solid;
+    border-width: 1px;
+    height: 20px;
+    
+}
+.navigacia{
+    width: 30px;
+}
+
+
+
+.diamond {
+    width: 30px;
+    display: inline;
+}
+.silver {
+    width: 30px;
+    display: inline;
+}
+.gold {
+    width: 30px;
+    display: inline;
+}
+.cost{
+    display: inline;
+    position: relative;
+    bottom: 10px;
+    color:black;
+    
+}
+.cos{
+    display: inline;
+    position: relative;
+    bottom: 10px;
+    color:black;
+    
+}
+.co{
+    display: inline;
+    position: relative;
+    bottom: 10px;
+    color:black;
+    
+}
+.fifa{
+    width: 200px;
+    display: block;
+    
+}
+.box1{
+    border-style: solid;
+    width: 200px;
+    margin-left: 60px;
+    background-color: white;
+    
+}
+.battlefield{
+    width: 200px;
+    display: block;
+    height: 300px;
+    
+}
+.box2{
+    border-style: solid;
+    width: 200px;
+    margin-left: 60px;
+    background-color: white;
+}
+.forza{
+    width: 200px;
+    display: block;
+    height: 300px;
+    
+}
+.box3{
+    border-style: solid;
+    width: 200px;
+    margin-left: 60px;
+    background-color: white;
+}
+.minecraft{
+    width: 200px;
+    display: block;
+    
+}
+.box4{
+    border-style: solid;
+    width: 200px;
+    margin-left: 60px;
+    background-color: white;
+}
+.main_div{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.box5{
+    border-style: solid;
+    width: 200px;
+    margin-left: 60px;
+    background-color: white;
+}
+.god_of_war{
+    width: 200px;
+    display: block;
+    height: 300px;
+}
+.box6{
+    border-style: solid;
+    width: 200px;
+    margin-left: 60px;
+    background-color: white;
+}
+.xbox_plus{
+    width: 200px;
+    display: block;
+    height: 300px;
+}
+.box7{
+    border-style: solid;
+    width: 200px;
+    margin-left: 60px;
+    background-color: white;
+}
+.ps_plus{
+    width: 200px;
+    display: block;
+    height: 300px;
+}
+.box8{
+    border-style: solid;
+    width: 200px;
+    margin-left: 60px;
+    background-color: white;
+}
+.steam_card_100{
+    width: 200px;
+    display: block;
+    height: 300px;
+    ;
+}
+.main_div_2{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
